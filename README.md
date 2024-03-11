@@ -39,6 +39,14 @@ Data Analysis and Visualization Projects
 ![Logo](https://github.com/sohilamohey/Power-BI-Projects/blob/main/Superstore%20Sales/Dashboard.png)
 
 
+## [Sales Dashboard](https://github.com/sohilamohey/PowerBI_Tasks/tree/main/2.%20Sales%20Dashboard)
+![logo](https://github.com/sohilamohey/PowerBI_Tasks/blob/main/2.%20Sales%20Dashboard/Sales.png)
+
+## [Sales Dashboard](https://github.com/sohilamohey/PowerBI_Tasks/tree/main/3.%20Sales%20Dashboard)
+![logo](https://github.com/sohilamohey/PowerBI_Tasks/blob/main/3.%20Sales%20Dashboard/Main%20Dashboard.png)
+![logo](https://github.com/sohilamohey/PowerBI_Tasks/blob/main/3.%20Sales%20Dashboard/Page%202.png)
+
+
 ## [Call Center](https://github.com/sohilamohey/Power-BI-Projects/tree/main/PWC%20Power%20BI%20Vitrual%20Internship/01%20Call%20Center%20Dashboard)
 ![logo](https://github.com/sohilamohey/Power-BI-Projects/blob/main/PWC%20Power%20BI%20Vitrual%20Internship/01%20Call%20Center%20Dashboard/01%20Call%20Center%20Dashboard.png)
 
@@ -51,11 +59,4 @@ Data Analysis and Visualization Projects
 ## [Kickstarter Dashboard](https://github.com/sohilamohey/PowerBI_Tasks/tree/main/1.%20Kickstarter%20Dashboard)
 ![logo](https://github.com/sohilamohey/PowerBI_Tasks/blob/main/1.%20Kickstarter%20Dashboard/Kickstarter.png)
 
-
-## [Sales Dashboard](https://github.com/sohilamohey/PowerBI_Tasks/tree/main/2.%20Sales%20Dashboard)
-![logo](https://github.com/sohilamohey/PowerBI_Tasks/blob/main/2.%20Sales%20Dashboard/Sales.png)
-
-## [Sales Dashboard](https://github.com/sohilamohey/PowerBI_Tasks/tree/main/3.%20Sales%20Dashboard)
-![logo](https://github.com/sohilamohey/PowerBI_Tasks/blob/main/3.%20Sales%20Dashboard/Main%20Dashboard.png)
-![logo](https://github.com/sohilamohey/PowerBI_Tasks/blob/main/3.%20Sales%20Dashboard/Page%202.png)
 
